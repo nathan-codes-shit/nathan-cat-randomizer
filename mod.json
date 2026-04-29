@@ -5,7 +5,7 @@
     },
     "id": "nathan.cat-randomizer",
     "name": "Nathan's Cat Randomizer",
-    "version": "v1.8.3",
+    "version": "v1.8.4",
     "developer": "nathan",
     "description": "A tiny cosmetic mod that parks a semi-transparent cat in the bottom-left during gameplay and swaps it for another ridiculous cat every time you click.",
     "tags": [

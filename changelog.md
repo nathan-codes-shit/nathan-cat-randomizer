@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.8.4
+
+- Updated the mod tags to Geode index allowed tags: `offline`, `customization`, and `joke`.
+
 ## v1.8.3
 
 - Renamed the mod to `nathan.cat-randomizer`.
@@ -9,4 +13,3 @@
 - Trimmed the image bundle to 330 cats.
 - Removed the attribution-required Wikimedia image.
 - Removed all image entries without retained source URLs.
-
