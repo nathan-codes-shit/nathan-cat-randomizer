@@ -1,0 +1,50 @@
+{
+    "geode": "5.3.0",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "nathan.cat-randomizer",
+    "name": "Nathan's Cat Randomizer",
+    "version": "v1.8.3",
+    "developer": "nathan",
+    "description": "A tiny cosmetic mod that parks a semi-transparent cat in the bottom-left during gameplay and swaps it for another ridiculous cat every time you click.",
+    "tags": [
+        "fun",
+        "offline",
+        "cosmetic"
+    ],
+    "resources": {
+        "sprites": [
+            "resources/cats/*.png"
+        ]
+    },
+    "settings": {
+        "enabled": {
+            "name": "Enabled",
+            "type": "bool",
+            "default": true
+        },
+        "opacity": {
+            "name": "Cat Opacity",
+            "type": "float",
+            "default": 0.5,
+            "min": 0.05,
+            "max": 1.0,
+            "control": {
+                "slider": true,
+                "slider-step": 0.05
+            }
+        },
+        "size": {
+            "name": "Cat Size",
+            "type": "float",
+            "default": 64.0,
+            "min": 24.0,
+            "max": 140.0,
+            "control": {
+                "slider": true,
+                "slider-step": 4.0
+            }
+        }
+    }
+}

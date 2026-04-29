@@ -1,0 +1,8 @@
+build/
+*.geode
+WORK.md
+.vs/
+.vscode/
+out/
+cmake-build-*/
+
